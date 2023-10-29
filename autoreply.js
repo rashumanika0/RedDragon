@@ -1,7 +1,7 @@
 const autoReply = (msg) => {
     let R = ''
     if(msg.match(/hi|හායි|hey|hello|halo|helow|හලෝ/gi)){
-        R = "🤓Hey, I am RedDragon👽"
+        R = "💗 *හායිම් අලේ මොකද කරන්නේ* 🙃"
     }
     if(msg.match(/😒/gi)){
         R = "😒මොකෝ"
